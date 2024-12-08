@@ -1,5 +1,5 @@
 # Unciv-mod-example
 
-An example mod for Unciv, that adds one new Civilization.
+Soviet Union, what else cloud i say?
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+For information on how to build and use mods, I did that mod with help of that person. [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
