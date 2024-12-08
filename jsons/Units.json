@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
+		"name": "T-34",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"uniqueTo": "Soviet Union",
+		"replaces": "Tank",
+		"movement": 6,
+		"strength": 85,
+		"cost": 900,
+		"requiredTech": "combustion engine",
+		"requiredResource": "Oil",
+		"promotions": ["assault 1","training 1","Mobility"],
+		"attackSound": "Tank"
 	}
 ]
