@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Soviet Union",
+		"leaderName": "Joseph Stalin",
+		"adjective": ["USSR"],
+		"startBias": ["Snow"],["Tundra"],["Fiealds"],
+		"preferredVictoryType": "Domintion",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Welcome, leader!",
+		"startIntroPart2": "",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Well, Comrade it looks like We are going to fight. I hope you are not mad at me.",
+		"attacked": "You! How cloud you do that to Us.",
+		"defeated": "Good fight my friend, I hope to see you soon.",
+		"introduction": "Greeting, Comrade! What would you say to me showing you around the streets of my cities?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Good to see you well my frieand. what can i do for you?",
+		"neutralLetsHearIt": [""],
+		"neutralNo": ["Unfortunetly, We have to disagree"],
+		"neutralYes": ["Yes! Of coure my frieand!"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What is it?",
+		"hateLetsHearIt": [""],
+		"hateNo": ["Of coure, No!"],
+		"hateYes": ["Yea, I can agree to that"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Good We don't have to fight anymore, what do you say about a glass of vodka?",
+		"tradeRequest": "I hope you agree my frieand",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [225,00,00],
+		"innerColor": [255,251,7],
+		"unique": "",
+		"cities": ["Moscow","Kiev","Minsk","Leningrad","Stalingrad","Lvow","Petersburg","Smolensk","Odessa","Novorossiysk","Kerch","Kerch","Sevastopol"]
 	}
 ]
