@@ -27,7 +27,7 @@
 		"afterPeace": "Good We don't have to fight anymore, what do you say about a glass of vodka?",
 		"tradeRequest": "I hope you agree my frieand",
 
-		"outerColor": [225,00,00],
+		"outerColor": [225,0,0],
 		"innerColor": [255,251,7],
 		"unique": "",
 		"cities": ["Moscow","Kiev","Minsk","Leningrad","Stalingrad","Lvow","Petersburg","Smolensk","Odessa","Novorossiysk","Kerch","Kerch","Sevastopol"]
